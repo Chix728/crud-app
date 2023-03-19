@@ -1,0 +1,131 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employee": [
+    {
+      "firstname": "Chirag",
+      "lastname": "vankar",
+      "email": "chirag@vankar.com",
+      "dob": "1998-04-24T18:30:00.000Z",
+      "gender": "Male",
+      "technology": "FullStack",
+      "package": 120000,
+      "id": 1
+    },
+    {
+      "firstname": "Chikky",
+      "lastname": "Vankar",
+      "email": "kriti@vankar.com",
+      "dob": "1996-08-05T18:30:00.000Z",
+      "gender": "Male",
+      "technology": "BackEnd",
+      "package": 800000,
+      "id": 2
+    },
+    {
+      "firstname": "Ranison",
+      "lastname": "Jadav",
+      "email": "Ranison@jadav.com",
+      "dob": "1998-10-02T18:30:00.000Z",
+      "gender": "Male",
+      "technology": "FronEnd",
+      "package": 150000,
+      "id": 3
+    },
+    {
+      "firstname": "savan",
+      "lastname": "visnam",
+      "email": "savan@abs.com",
+      "dob": "1996-05-24T18:30:00.000Z",
+      "gender": "Male",
+      "technology": "FronEnd",
+      "package": 520000,
+      "id": 4
+    },
+    {
+      "firstname": "khushi",
+      "lastname": "vaghela",
+      "email": "khushi@khushi.com",
+      "dob": "1996-05-13T18:30:00.000Z",
+      "gender": "Female",
+      "technology": "FullStack",
+      "package": 1520000,
+      "id": 5
+    },
+    {
+      "firstname": "chirag",
+      "lastname": "vankar",
+      "email": "chirag@vankar.com1",
+      "dob": "1998-04-24T18:30:00.000Z",
+      "gender": "Male",
+      "technology": "FullStack",
+      "package": 120000,
+      "id": 6
+    },
+    {
+      "firstname": "chirag1",
+      "lastname": "vankar",
+      "email": "chirag@vankar.com",
+      "dob": "1998-04-24T18:30:00.000Z",
+      "gender": "Male",
+      "technology": "FullStack",
+      "package": 120000,
+      "id": 7
+    },
+    {
+      "firstname": "chiragupdate",
+      "lastname": "vankar",
+      "email": "chirag@vankar.com",
+      "dob": "1998-04-24T18:30:00.000Z",
+      "gender": "Male",
+      "technology": "FullStack",
+      "package": 120000,
+      "id": 8
+    },
+    {
+      "firstname": "Sibani",
+      "lastname": "Priya",
+      "email": "siau@dh.com",
+      "dob": "2000-05-25T18:30:00.000Z",
+      "gender": "Female",
+      "technology": "FronEnd",
+      "package": 420000,
+      "id": 9
+    },
+    {
+      "firstname": "Jenifer",
+      "lastname": "Lopaz",
+      "email": "jeno@hgn.com",
+      "dob": "1998-05-23T18:30:00.000Z",
+      "gender": "Female",
+      "technology": "FronEnd",
+      "package": 145000,
+      "id": 10
+    },
+    {
+      "firstname": "Travis",
+      "lastname": "Scott",
+      "email": "travis@scott.com",
+      "dob": "1978-05-09T18:30:00.000Z",
+      "gender": "Male",
+      "technology": "FronEnd",
+      "package": 520000,
+      "id": 11
+    }
+  ]
+}

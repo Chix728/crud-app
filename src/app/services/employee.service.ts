@@ -9,15 +9,15 @@ export class EmployeeService {
 
   constructor(private _http:HttpClient) { }
   addEmployee(data:any):Observable<any>{
-    return this._http.post('http://localhost:3000/employee',data)
+    return this._http.post('https://chix728.github.io/crud-app/employee',data)
   }
   getEmployees():Observable<any>{
-    return this._http.get('http://localhost:3000/employee')
+    return this._http.get('https://chix728.github.io/crud-app/employee')
   }
   updateEmployee(id:number,data:any):Observable<any>{
-    return this._http.put(`http://localhost:3000/employee/${id}`,data);
+    return this._http.put(`https://chix728.github.io/crud-app/employee/${id}`,data);
   }
   deleteemployee(id:number):Observable<any>{
-    return this._http.delete(`http://localhost:3000/employee/${id}`);
+    return this._http.delete(`https://chix728.github.io/crud-app/employee/${id}`);
   }
 }
